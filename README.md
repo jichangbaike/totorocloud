@@ -1,4 +1,4 @@
-# 龙猫云（TotoroCloud）官网注册入口说明与多平台使用指南
+# 龙猫云（TotoroCloud）官网注册入口说明与使用指南
 
 <img src="https://raw.githubusercontent.com/jichangbaike/totorocloud/refs/heads/main/vB124.png" height="500">
 
