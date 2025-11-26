@@ -173,7 +173,4 @@ A：优先查看 TotoroCloud 官网的公告、使用说明与帮助文档。如
 - 👉 **龙猫云（TotoroCloud）官方注册入口**：  
   [https://finalto.xyz/7UDQ47](https://finalto.xyz/7UDQ47)
 
-- 📖 **第三方测评与使用体验**：  
-  [TotoroCloud（龙猫云）机场测评 - jichangbaike.com](https://jichangbaike.com/2025/11/309.html)
-
-> 建议将本说明文档与测评文章一并收藏，使用过程中请严格遵守当地法律法规与服务条款。
+> 建议将本说明文档收藏，使用过程中请严格遵守当地法律法规与服务条款。
