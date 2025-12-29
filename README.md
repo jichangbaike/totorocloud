@@ -1,6 +1,6 @@
 # 龙猫云（TotoroCloud）官网注册入口说明与多平台使用指南
 
-<img src="https://raw.githubusercontent.com/jichangbaike/totorocloud/refs/heads/main/vB124.png" height="500">
+<img src="https://raw.githubusercontent.com/jichangbaike/totorocloud/refs/heads/main/vB124.png" height="500" alt="龙猫云 TotoroCloud">
 
 龙猫云（TotoroCloud）是一家主打稳定连接体验的网络服务提供商，支持多平台使用，适合日常办公、学习以及跨境协作等场景。  
 本仓库用于整理龙猫云的官网注册入口说明、基础使用介绍、多平台配置指引以及常见问题，方便用户在合规前提下更好地完成日常访问需求。
