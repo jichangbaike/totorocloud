@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/jichangbaike/totorocloud/refs/heads/main/images/totorocloud.png" height="500" alt="龙猫云 TotoroCloud">
 
-**龙猫云（TotoroCloud）**是一家主打稳定连接体验的网络服务提供商，支持多平台使用，适合日常办公、学习以及跨境协作等场景。  
+**龙猫云（TotoroCloud）** 是一家主打稳定连接体验的网络服务提供商，支持多平台使用，适合日常办公、学习以及跨境协作等场景。  
 
 **龙猫云**使用IPLC专线线路，解锁 Netflix、Disney+、HBO 流媒体，支持 Chatgpt访问，不限制客户端，晚高峰稳定。为了应对监管压力，目前只能使用自研客户端，客户端支持 Windows、Android、MacOS、IOS 设备。
 
