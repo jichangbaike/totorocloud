@@ -9,7 +9,7 @@
 
 > 📌 本仓库用于整理龙猫云的官网注册入口说明、基础使用介绍、多平台配置指引以及常见问题，方便用户在合规前提下更好地完成日常访问需求。
 > 
-> 📒 最后更新：2026-04-09（如套餐或线路有调整，以官方页面为准）
+> 📒 最后更新：2026-06-19（如套餐或线路有调整，以官方页面为准）
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -20,8 +20,8 @@
 
 ## 快速入口
 
-- 👉 **龙猫云官网注册入口**：  
-  [https://finalto.xyz/7UDQ47](https://finalto.xyz/7UDQ47)
+- 👉 **龙猫云官网地址注册入口**：  
+ [进入龙猫云 TotoroCloud 官网](https://finalto.xyz/7UDQ47)
 
 建议在桌面浏览器中打开该链接，完成账号注册与套餐选择。后续的订阅获取和客户端配置步骤，可参考本说明文档。
 
@@ -112,23 +112,29 @@
 为了应对现在复杂的审查以及防止订阅链接被恶意使用、恶意举报、恶意攻击，只能使用龙猫云自研客户端，客户端支持 Windows、Android、MacOS、IOS。
 
 - **Windows 客户端**
-  * 版本号：v1.31.7
-  * https://download.lm123.co/lmapp.exe  
-  
-- **Android 客户端** 
-  * 版本号：v1.31.7
-  * https://download.lm123.co/lmapp.apk
+  * 适用于 Win/10/11 操作系统
+  * [Windows 客户端下载](https://app.pbbapi.baifeng88.com/apps/lm/lmapp-lite.exe)
 
 - **Mac 客户端**
-  * 版本号：v1.31.7
-  * https://download.lm123.co/lmapp.dmg
+  * 支持 Intel 及 Apple Silicon (M1/M2/M3/M4) 芯片
+  * [Mac 客户端下载](https://app.pbbapi.baifeng88.com/apps/lm/lmapp-lite.pkg)
   
 - **iOS / iPadOS 客户端** 
-  * 版本号：v1.31.7 
-  * 在龙猫云官网的帮助中心获取
+   * 外服商店搜索：nextin， 安装需要 iOS 15 ；
+  * 输入代码 : longmao666；
+  * 输入**龙猫云 TotoroCloud **的账号和密码，登录即可拉取到订阅和节点；
+  * 登录成功后就可以订阅信息，首页点击启动按钮后，就可以正常使用。
 
-- **路由器等其他设备**  
-  * 目前还没有对应的客户端
+- **Android 客户端** 
+  * 支持安卓手机、平板及智能电视
+  * [Android  客户端下载](https://app.pbbapi.baifeng88.com/apps/lm/lmapp-lite.apk)
+
+- **Linux 客户端**
+  * 最低支持 Ubuntu 22.04+ Debian 12+ Fedora 36+
+  * [Linux 客户端下载](https://app.pbbapi.baifeng88.com/apps/lm/lmapp-linux-lite.zip)
+
+- **OpenWrt 客户端**  
+  * [OpenWrt  客户端下载](https://app.pbbapi.baifeng88.com/apps/lm/lmapp-openwrt-lite.zip)
 
 **安装须知**
 
@@ -148,7 +154,7 @@
 
 1. **访问龙猫云官网注册入口**  
    通过本说明文档中的注册链接进入龙猫云用户中心：  
-   [https://finalto.xyz/7UDQ47](https://finalto.xyz/7UDQ47)
+   [进入龙猫云 TotoroCloud 官网](https://finalto.xyz/7UDQ47)
 2. **注册并登录账户**  
    使用常用邮箱等方式注册账号，并完成登录操作。
 3. **选择套餐并完成支付**  
@@ -201,8 +207,8 @@ A：优先查看龙猫云官网的公告、使用说明与帮助文档。如问�
 
 ## 官网注册入口与测评资料
 
-- 👉 **龙猫云官网注册入口**：  
-  [https://finalto.xyz/7UDQ47](https://finalto.xyz/7UDQ47)
+- 👉 **龙猫云官网地址入口**：  
+  [进入龙猫云 TotoroCloud 官网](https://finalto.xyz/7UDQ47)
 
 > 建议将本说明文档收藏，使用过程中请严格遵守当地法律法规与服务条款。
 
@@ -213,9 +219,9 @@ A：优先查看龙猫云官网的公告、使用说明与帮助文档。如问�
 本仓库内容由维护者持续整理与更新，包括 README 文案、章节结构、说明顺序、FAQ 框架及相关衍生表达。
 
 禁止整段复制、轻度改写后重新发布、镜像式搬运目录骨架与说明逻辑，以及长期针对性跟抄本账号下多个仓库内容。
- 
+
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`  
-- **Last Updated:** `2026-04-09`  
-- **Version:** `v1.0`
+- **Last Updated:** `2026-06-19`  
+- **Version:** `v1.1`
