@@ -9,7 +9,7 @@
 
 > 📌 本仓库用于整理龙猫云的官网注册入口说明、基础使用介绍、多平台配置指引以及常见问题，方便用户在合规前提下更好地完成日常访问需求。
 > 
-> 📒 最后更新：2026-8-9（如套餐或线路有调整，以官方页面为准）
+> 📒 最后更新：2026-09-06（如套餐或线路有调整，以官方页面为准）
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -87,7 +87,7 @@
 | VIP3套餐 | ¥60 / 月     | 400GB     | 不限设备     | 适合高清视频观看、AI使用       |
 | VIP4套餐 | ¥120 / 月    | 1000GB    | 不限设备     | 高强度办公与多终端使用        |
 
-\*说明：  
+**说明**：  
 
 - 具体的流量额度、重置周期、活动折扣等信息请以龙猫云官网为准；  
 - 使用过程中应遵守合理使用原则，避免长期占用极高带宽资源，以免影响整体体验。
@@ -96,14 +96,30 @@
 
 ## 限时活动与优惠码说明
 
-- **长期活动**
-  
-  * 季付 - 9折优惠
-  * 半年付 - 85折优惠
-  * 年付 - 8折优惠
+**长期活动**
 
-- **使用说明**
-  * 无需优惠吗，自动结算
+* 季付 - 9折优惠
+* 半年付 - 85折优惠
+* 年付 - 8折优惠
+
+**使用说明**
+
+- 龙猫云中秋节以及开学季大促来了。
+
+- 月付/季度/半年： 优惠码： **mid85** 享受85折优惠。
+
+- 年付/2年/3年付： 优惠码： **mid80** 享受85折优惠。 享受8折优惠。
+
+- 活动时间从即日起到2026年9月30号23点59分截止。
+- 
+
+**其他说明**
+
+- 特别说明1：商店里显示的3年价格已经是6折了，加上本地活动的8折优惠码，就是最低48折，非常划算！
+
+- 特别说明2：因为现在行业非常特殊，为了给用户更好更稳定的服务，本次活动结束后，龙猫云可能会引来第一次涨价，之前15的会变成20，涨幅会在30%左右，请各位珍惜本次的活动~
+
+> 长期活动无需优惠码，下单自动结算。
 
 ---
 
@@ -113,11 +129,11 @@
 
 - **Windows 客户端**
   * 适用于 Win/10/11 操作系统
-  * [Windows 客户端下载](https://app.pbbapi.baifeng88.com/apps/lm/lmapp-lite.exe)
+  * [Windows 客户端下载](https://dl.pbbapi.hnlskj98.com/apps/lm/lmapp-lite.exe)
 
 - **Mac 客户端**
   * 支持 Intel 及 Apple Silicon (M1/M2/M3/M4) 芯片
-  * [Mac 客户端下载](https://app.pbbapi.baifeng88.com/apps/lm/lmapp-lite.pkg)
+  * [Mac 客户端下载](https://dl.pbbapi.hnlskj98.com/apps/lm/lmapp-lite.pkg)
   
 - **iOS / iPadOS 客户端** 
    * 外服商店搜索：nextin， 安装需要 iOS 15 ；
@@ -127,14 +143,14 @@
 
 - **Android 客户端** 
   * 支持安卓手机、平板及智能电视
-  * [Android  客户端下载](https://app.pbbapi.baifeng88.com/apps/lm/lmapp-lite.apk)
+  * [Android  客户端下载](https://dl.pbbapi.hnlskj98.com/apps/lm/lmapp-lite.apk)
 
 - **Linux 客户端**
   * 最低支持 Ubuntu 22.04+ Debian 12+ Fedora 36+
-  * [Linux 客户端下载](https://app.pbbapi.baifeng88.com/apps/lm/lmapp-linux-lite.zip)
+  * [Linux 客户端下载](https://dl.pbbapi.hnlskj98.com/apps/lm/lmapp-linux-lite.zip)
 
 - **OpenWrt 客户端**  
-  * [OpenWrt  客户端下载](https://app.pbbapi.baifeng88.com/apps/lm/lmapp-openwrt-lite.zip)
+  * [OpenWrt  客户端下载](https://dl.pbbapi.hnlskj98.com/apps/lm/lmapp-openwrt-lite.zip)
 
 **安装须知**
 
@@ -225,5 +241,5 @@ A：优先查看龙猫云官网的公告、使用说明与帮助文档。如问�
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`  
-- **Last Updated:** `2026-8-9`  
-- **Version:** `v1.2`
+- **Last Updated:** `2026-09-06`  
+- **Version:** `v1.3`
