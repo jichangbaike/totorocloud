@@ -9,7 +9,7 @@
 
 > 📌 本仓库用于整理龙猫云的官网注册入口说明、基础使用介绍、多平台配置指引以及常见问题，方便用户在合规前提下更好地完成日常访问需求。
 > 
-> 📒 最后更新：2026-09-06（如套餐或线路有调整，以官方页面为准）
+> 📒 最后更新：2026-10-22（如套餐或线路有调整，以官方页面为准）
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -129,11 +129,11 @@
 
 - **Windows 客户端**
   * 适用于 Win/10/11 操作系统
-  * [Windows 客户端下载](https://dl.pbbapi.hnlskj98.com/apps/lm/lmapp-lite.exe)
+  * [Windows 客户端下载](https://dl.pbbapi.rundingtai.com/apps/lm/lmapp-lite.exe)
 
 - **Mac 客户端**
   * 支持 Intel 及 Apple Silicon (M1/M2/M3/M4) 芯片
-  * [Mac 客户端下载](https://dl.pbbapi.hnlskj98.com/apps/lm/lmapp-lite.pkg)
+  * [Mac 客户端下载](https://dl.pbbapi.rundingtai.com/apps/lm/lmapp-lite.pkg)
   
 - **iOS / iPadOS 客户端** 
    * 外服商店搜索：nextin， 安装需要 iOS 15 ；
@@ -143,14 +143,14 @@
 
 - **Android 客户端** 
   * 支持安卓手机、平板及智能电视
-  * [Android  客户端下载](https://dl.pbbapi.hnlskj98.com/apps/lm/lmapp-lite.apk)
+  * [Android  客户端下载](https://dl.pbbapi.rundingtai.com/apps/lm/lmapp-lite.apk)
 
 - **Linux 客户端**
   * 最低支持 Ubuntu 22.04+ Debian 12+ Fedora 36+
-  * [Linux 客户端下载](https://dl.pbbapi.hnlskj98.com/apps/lm/lmapp-linux-lite.zip)
+  * [Linux 客户端下载](https://dl.pbbapi.rundingtai.com/apps/lm/lmapp-linux-lite.zip)
 
 - **OpenWrt 客户端**  
-  * [OpenWrt  客户端下载](https://dl.pbbapi.hnlskj98.com/apps/lm/lmapp-openwrt-lite.zip)
+  * [OpenWrt  客户端下载](https://dl.pbbapi.rundingtai.com/apps/lm/lmapp-openwrt-lite.zip)
 
 **安装须知**
 
@@ -241,5 +241,5 @@ A：优先查看龙猫云官网的公告、使用说明与帮助文档。如问�
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`  
-- **Last Updated:** `2026-09-06`  
-- **Version:** `v1.3`
+- **Last Updated:** `2026-10-22`  
+- **Version:** `v1.4`
